@@ -17,7 +17,7 @@
 #   - detuning from cavity; delta = w_c - w_L
 #   - detuning from atom; Delta = = w_a - w_L
 #   - dephasing; Gamma
-#s
+#
 
 import sys
 import scipy as sp
